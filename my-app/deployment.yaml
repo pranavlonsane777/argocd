@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: pranavl7/public-repo:v1
+        image: pranavl7/public-repo:v2
         ports:
         - containerPort: 80
 
